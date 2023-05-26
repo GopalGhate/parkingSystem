@@ -1,4 +1,4 @@
 # parkingSystem
 Parking system 
 
-Create a parking lot for cars
+Create a parking lot for cars.
