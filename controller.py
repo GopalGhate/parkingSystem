@@ -22,7 +22,6 @@ class ParkingLot:
         if isinstance(vehicle, str):
             raise ValueError("Vehichle should be not be string class instance")
 
-        # print("Occupied slots",self.occupied_slots)
         if self.occupied_slots == self.capacity:
             print("Parking full")
             return False
